@@ -150,11 +150,10 @@ class Akshaya:
 
 ## 🎯 What I'm Working On
 
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 🔭 Building projects with **Flask + PostgreSQL + MongoDB**
+- 🌱 Currently learning **Data Analyst**
+- 🔭 Building projects with **Flask + PostgreSQL + HTML**
 - 💡 Exploring **Data Science pipelines** and **AI model deployment**
-- 📚 Strengthening **Java OOP** and **System Design** concepts
-- 🎯 Targeting **Software Engineering Internships (2025)**
+- 🎯 Targeting **Data Analyst Internships (2025)**
 
 ---
 
